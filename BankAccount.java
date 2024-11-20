@@ -44,7 +44,7 @@ class BankAccount {
     // Main method
     public static void main(String[] args) {
         // Create an object of BankAccount
-        BankAccount m1 = new BankAccount();
+        BankAccount b1 = new BankAccount();
         b1.accountHolderName = "INGLE VISHAL GANESH";
         b1.accountNumber = 8459113402935605L;
         b1.balance = 50000;
